@@ -1,5 +1,5 @@
 {
-  "name": "westwing-tech-radar",
+  "name": "momox-tech-radar",
   "version": "1.0.0",
   "description": "Our tech radar",
   "main": "refresh.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "g-sheets-api": "^2.1.2"
+    "g-sheets-api": "^2.2.0"
   }
 }
