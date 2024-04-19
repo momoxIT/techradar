@@ -4,7 +4,7 @@ let content = 'const points = [';
 
 //gsheet details
 const readerOptions = {
-    sheetId: "1qxqDFvSeZvmaHd5MNnJ-JiDcmUTXilXjCm9xfJe03EM",
+    sheetId: "1mHawDkbomBTSE-iF6PFGGfYW4wtjX5HJCcHE9LWYofM",
     apiKey: process.argv[2],
     returnAllResults: true
 };
