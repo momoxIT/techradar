@@ -1,6 +1,6 @@
 const entries = [];
 const rings = [ "Adopt", "Trial", "Assess", "Hold" ];
-const quadrants = ["Tools", "Languages & Frameworks", "Infrastructure & Platforms", "Data & AI"];
+const quadrants = ["Tools", "Infrastructure & Platforms", "Languages & Frameworks", "Data & AI"];
 
 // map gsheet points in zradar script points
 points.forEach(point => {
