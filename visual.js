@@ -1,6 +1,6 @@
 const entries = [];
 const rings = [ "Adopt", "Trial", "Assess", "Hold" ];
-const quadrants = ["Tools", "Languages & Frameworks", "Infrastructure", "Data"];
+const quadrants = ["Tools", "Languages & Frameworks", "Infrastructure & Platforms", "Data & AI"];
 
 // map gsheet points in zradar script points
 points.forEach(point => {
@@ -30,7 +30,7 @@ radar_visualization({
       grid: "#bbb",
       inactive: "#ddd"
     },
-    title: "Westwing Tech Radar — 2023.02",
+    title: "momox Tech Radar — 2024.04",
     quadrants: [
       { name: quadrants[0] },
       { name: quadrants[1] },
